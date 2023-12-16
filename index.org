@@ -1,0 +1,19 @@
+#+title: An Overview of Financial Markets and Institutions
+#+author: Matt Brigida, Ph.D.
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+HTML_HEAD: <style>pre.src{background:#343131;color:white;} </style>
+#+PROPERTY: header-args    :exports none
+
+
+* Financial Markets
+
+Financial markets enable the exchange of securities for money.  At any given point on time there are market participants who have excess money, and those who need money.  Financial markets allow those who need money to sell securities to those with excess money.  That is:
+
+Need money: create a security and sell it for cash.
+Excess money: buy a security in exchange for cash.
+
+There are two broad category of securities---debt and equity---and the motivation for this exchange can vary depending on the security.
+
+**Debt Securities**: These securities are formal contracts where an issuer borrows from the debt buyer.  Examples are bonds and mortgages.  Who has excess money, and who needs money in these examples?
+
+** /Free/ Markets
