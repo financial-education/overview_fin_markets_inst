@@ -63,9 +63,13 @@ A **secondary market** is one where the issuer of the security is not involved. 
 
 ** Market Efficiency
 
+**Market Efficiency** is a statement about the (1) speed and (2) accuracy with which information is incorporated into prices.  Evidence supports that all public information is quickly and accurately incorporated into prices.  That is, markets are now very efficient. 
+
+**What does market efficiency not mean?**  It doesn't mean the market will never crash---if new information is revealed the market can decline rapidly.
 
 ** Liquidity
 
+Liquidity is generally defined as the (1) speed at which you can sell an asset for cash (2) without discounting its value.  There is also an equivalent but more investments focused definition:  the amount you can buy or sell without significantly increasing or decreasing the price.
 
 * Financial Institutions
 
