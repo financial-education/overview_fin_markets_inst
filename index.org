@@ -4,6 +4,9 @@
 #+HTML_HEAD: <style>pre.src{background:#343131;color:white;} </style>
 #+PROPERTY: header-args    :exports none
 
+* An Important Note on the Goal of Financial Markets  and Institutions
+
+The ultimate goal is to increase real economic growth, which lowers unemployment and improves lives through greater production.  For any concept in this course there is a clear reason why it will foster economic growth.  If you can't think of how a topic impacts the real economy, you want to review that topic again.
 
 * Financial Markets
 
@@ -29,7 +32,6 @@ In /Investements/ we discuss the benefits of allowing prices to fluctuate freely
 1.  Incorporate information into prices.
 2.  This organizes society through price signals.
 
-
 ** Primary and Secondary Markets
 
 A **primary market** is one where the security issuer is involved.  For example, the Initial Public Offering (IPO) market is a primary market because the company is selling shares to investors (investors receive equity and the company received cash).  Another example is US Treasury auctions of bonds.  [[https://www.treasurydirect.gov/auctions/results/][You can view the results of these auctions here]].
@@ -41,7 +43,6 @@ A **secondary market** is one where the issuer of the security is not involved. 
 **Do Companies Care what their stock price is on the Secondary Market?**  Absolutely, for a number of reasons:
 1.  Management performance is evaluated buy how the stock has done.
 2.  New primary market sales of stock are done near the present stock price in the secondary market.
-
 
 ** Money and Capital Markets
 
@@ -61,6 +62,10 @@ A **secondary market** is one where the issuer of the security is not involved. 
 
 **Why the distinction?**  We make a distinction between these markets because the participants are different, and different factors are taken into account when valuing these securities.  For example, money-market mutual funds specialize in buying money market securities.  However stock/bond mutual funds, hedge funds, pension funds specialize in buying capital market securities.  Moreover when deciding to buy a money market security we only care about the firm's ability to remain solvent over the short-run, so we are interested in measures such as the current or quick ratios.  Alternatively, capital market investors care about a firms growth prospects and solvency over years and decades, and thus consider measures such as ROA, and the debt-to-equity ratio.
 
+*** A note on the use of /money/ vs /capital/
+
+Broadly if someone says they need /capital/ they mean a long-term investment (> 1 year) which is used to finance long-term assets. If they need /money/ it is a short-term investment. 
+
 ** Market Efficiency
 
 **Market Efficiency** is a statement about the (1) speed and (2) accuracy with which information is incorporated into prices.  Evidence supports that all public information is quickly and accurately incorporated into prices.  That is, markets are now very efficient. 
@@ -70,6 +75,12 @@ A **secondary market** is one where the issuer of the security is not involved. 
 ** Liquidity
 
 Liquidity is generally defined as the (1) speed at which you can sell an asset for cash (2) without discounting its value.  There is also an equivalent but more investments focused definition:  the amount you can buy or sell without significantly increasing or decreasing the price.
+
+** Regulation of Financial Markets
+
+Markets are legal frameworks.  If the framework fosters more investment, then more firms may attract funding and this increases real asset construction and real economic growth.  Therefore much of the laws and regulations surrounding financial markets are made to attract investors (which attracts those who need money/capital).
+
+
 
 * Financial Institutions
 
