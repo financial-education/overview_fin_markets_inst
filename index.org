@@ -80,6 +80,21 @@ Liquidity is generally defined as the (1) speed at which you can sell an asset f
 
 Markets are legal frameworks.  If the framework fosters more investment, then more firms may attract funding and this increases real asset construction and real economic growth.  Therefore much of the laws and regulations surrounding financial markets are made to attract investors (which attracts those who need money/capital).
 
+What general principles foster investment:
+
+1.  Transparency.  Financial regulations and accounting rules which reduce the information asymmetry between corporate managers and investors.
+2.  Good and fair legal system which enforced contracts.
+3.  Uniform enforcement of regulations.
+
+*** Regulatory Agencies
+
+-  The SEC regulates stock and bond markets.
+-  The CFTC regulates commodities markets.
+
+  Note regulatory agencies don't ensure you make good investment decisions, only that the decisions you make are based on trustworthy information, and the contracts you enter into will be enforced.
+
+** Financial Markets and Globalization
+
 
 
 * Financial Institutions
