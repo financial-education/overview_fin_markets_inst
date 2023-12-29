@@ -108,7 +108,12 @@ Say you are going to attempt to raise capital by yourself for your wind energy g
 5.  You will likely have to break the securities across multiple buyers.
 
 
-We may split financial institutions into two categories depending on how they finance their assets. Depository institutions finance assets largely through accepting deposits. Roughly 80% of a banks assets can be financed through deposit accounts.   
+We may split financial institutions into two categories depending on how they finance their assets. Depository institutions finance assets largely through accepting deposits. Roughly 80% of a banks assets can be financed through deposit accounts.
+
+Below is a plot of Deposits to Assets by Bank Size Decile.  Note larger banks tend to use less deposit financing, and that the proportion of deposit financing varies over time (is it affected by changes in interest rates?).  The range of Deposits to Assets over the entire dataset is roughly from 74% to 90%.
+
+#+caption: Calculated using FDIC Call Reports (FDIC SDI data)
+[[./deposits_to_assets.png]]
 
 Alternatively, non-depository institutions finance assets through security sales, insurance payments, or other sources, though not through deposits.  We make a distinction between these two types of institutions because depository institutions handle public money, and are therefore more highly regulated. 
 
