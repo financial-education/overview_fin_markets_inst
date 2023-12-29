@@ -95,10 +95,26 @@ What general principles foster investment:
 
 ** Financial Markets and Globalization
 
-
+We won't cover financial markets abroad much in this course for a number of reasons. Firstly, the US is the most important market for raising capital---entrepreneurs from around the globe come to the US to finance their business. Secondly, as capital can more easily flow between markets, these markets become more correlated.  So there is little benefit from interacting in foreign financial markets (they are correlated with the US market).
 
 * Financial Institutions
 
+Say you are going to attempt to raise capital by yourself for your wind energy generation business.  What problems will you face?
+
+1.  Who is interested in providing capital?  Your time is spent understanding the wind energy business, and don't know who has available capital.
+2.  Of those who are interested in making capital investments, what is their desired risk level?
+3.  You have to convey your creditworthiness to the potential lenders/investors.
+4.  You have to find a price which will sell enough securities to meet your capital needs.
+5.  You will likely have to break the securities across multiple buyers.
+
+
+We may split financial institutions into two categories depending on how they finance their assets. Depository institutions finance assets largely through accepting deposits. Roughly 80% of a banks assets can be financed through deposit accounts.   
+
+Alternatively, non-depository institutions finance assets through security sales, insurance payments, or other sources, though not through deposits.  We make a distinction between these two types of institutions because depository institutions handle public money, and are therefore more highly regulated. 
+
 ** Depository Institutions
+
+Depository institutions offer deposit accounts to the public and generally use the money in these accounts to fund long-term loans.
+
 
 ** Non-Depository Institutions
