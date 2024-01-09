@@ -119,7 +119,41 @@ Alternatively, non-depository institutions finance assets through security sales
 
 ** Depository Institutions
 
-Depository institutions offer deposit accounts to the public and generally use the money in these accounts to fund long-term loans.
+Depository institutions offer deposit accounts to the public and generally use the money in these accounts to fund long-term loans.  Salient aspects of this service are:
+
+-  Deposit accounts can be of any size (often small), and these funds are packaged together to make large loans.
+-  They aggregate these short-term deposits and provide long-term loans of any size.
+-  They evaluate the default probability of the loans they provide---the depositors don't have to.
+-  They don't pass on the loss on a loan to the depositors (though if the bank fails the depositors could experience losses).
+-  They offer many loans so they provide depositors diversification.
+
+Note, to depository institutions, deposits are liabilities and the loans they offer are assets.  
+
+Also note, depository institutions can be members of the Federal Reserve system.
+
+*** Commercial Banks
+
+*** Savings and Loans (S&L) / Thrifts
+
+
+*** Credit Unions
+
+The main difference between credit unions and S&L is that credit unions are non-profit, and therefore have preferential tax treatment.  However, credit unions have to restrict membership (who can make deposits) to a group with a common bond, such as a common employer.  
+
+** Non-Depository Institutions
+
+As the name implies, these institutions obtain funding through other means than offering deposits.  
+
+*** Insurance Companies
+
+*** Pension Funds
+
+*** Mutual Funds
+
+*** Finance Companies
+
+*** Securities Firms
+
 
 
 ** Non-Depository Institutions
