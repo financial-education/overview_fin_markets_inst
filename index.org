@@ -133,8 +133,11 @@ Also note, depository institutions can be members of the Federal Reserve system.
 
 *** Commercial Banks
 
+Accepts deposits and makes loans, often to large businesses.  Bank of America, and JP Morgan are examples of large Commercial banks.  Many commercial banks are members of the Federal Reserve System and therefore have access to the federal funds market, where they can borrow or lend (to meet reserve requirements or earn interest on excess funds).
+
 *** Savings and Loans (S&L) / Thrifts
 
+Accepts deposits and offers mainly residential mortgage loans.  Often also offers other types of mortagage and auto loans to consumers.
 
 *** Credit Unions
 
@@ -142,18 +145,47 @@ The main difference between credit unions and S&L is that credit unions are non-
 
 ** Non-Depository Institutions
 
-As the name implies, these institutions obtain funding through other means than offering deposits.  
+As the name implies, these institutions obtain funding through other means than offering deposits.  These firms do not have access to the Federal Reserve System.
 
 *** Insurance Companies
 
+Insurance companies are funded through premium paid for insuring cars, etc.  They invest the funds in stocks and bonds.
+
 *** Pension Funds
+
+Pension funds provide defined benefit payments to retirees.  To do so they receive regular payments from workers, and invest this money in stocks and bonds.  When the worker retires the fund uses these stock and bond payments to provide the defined benefits. Because workers often have decades before they retire, pension funds invest in long-term securities.
 
 *** Mutual Funds
 
+Mutual funds sell shares in the fund and invest the proceeds in securities.  Commonly mutual funds invest in:
+
+- Stock
+- Bonds
+- Money market securities
+
 *** Finance Companies
+
+Finance companies sell securities (stock and bonds) and use the proceeds tp lend to consumers and businesses.  Examples are Ford Motor Credit and American Express.  
 
 *** Securities Firms
 
+These firms provide many services generally referred to as /investment banking/.  For example they may:
+
+-  Underwrite securities
+-  Serve as an advisor on transactions
+-  Function as a dealer in markets.
 
 
-** Non-Depository Institutions
+#+BEGIN_QUOTE 
+Many of the above non-depository financial institutions serve an important function as monitors of publicly traded firms. This is because they are often blockholders---they own large (> 10%) portions of a firm's stock.
+#+END_QUOTE
+
+
+#+BEGIN_QUOTE 
+*Consolidation among financial institutions* See the graph of change in the number of financial institutions here below.  The number of FDIC insured institutions has declined consistently since the 1990s.  A major reason is the removal of a restriction on interstate banking, and a resulting industry consolidation.
+#+END_QUOTE
+
+#+Caption: Change in the number of banks
+[[./dygraph_banks.png]]
+
+*Programming Exercise*: Use the ~/summary~ call [[https://banks.data.fdic.gov/docs/#/operations/Historical/getHistorical][from the BankFind API here]] to find the total number of FDIC institutions by quarter.
